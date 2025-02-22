@@ -12,7 +12,11 @@ Este proyecto permite aplicar filtros de convolución sobre la camara o sobre un
   - Filtros de detección de bordes (Sobel horizontal, vertical, colorizado, etc.).
 
 📺 **Video Explicativo:**  
-[![Mira el video](https://img.youtube.com/vi/AwTH_0yW9_I/0.jpg)](https://www.youtube.com/watch?v=AwTH_0yW9_I)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=AwTH_0yW9_I">
+    <img src="https://img.youtube.com/vi/AwTH_0yW9_I/0.jpg" width="300">
+  </a>
+</p>
 
 📖 **Procesamiento digital de imágenes por núcleo, kernel, matriz de convolución o máscara:**  
 - [Artículo en Wikipedia sobre Núcleos en Procesamiento Digital de Imágenes](https://es.wikipedia.org/wiki/N%C3%BAcleo_(procesamiento_digital_de_im%C3%A1genes))
