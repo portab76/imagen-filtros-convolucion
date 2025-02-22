@@ -4,12 +4,6 @@ Este proyecto permite aplicar filtros de convolución sobre la camara o sobre un
 ## 🚀 Características
 
 - Aplicación de filtros de convolución en imágenes en vivo desde la cámara web.
-- Filtros disponibles: 
-  - Identidad
-  - Eje básico
-  - Desenfoque básico y Gaussiano
-  - Enfocar y realzar
-  - Filtros de detección de bordes (Sobel horizontal, vertical, colorizado, etc.).
 
 📺 **Video Explicativo:**  
 <p align="center">
