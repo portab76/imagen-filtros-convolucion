@@ -14,7 +14,7 @@ Este proyecto permite aplicar filtros de convolución sobre la camara o sobre un
 📺 **Video Explicativo:**  
 <p align="center">
   <a href="https://www.youtube.com/watch?v=AwTH_0yW9_I">
-    <img src="https://img.youtube.com/vi/AwTH_0yW9_I/0.jpg" width="300">
+    <img src="https://img.youtube.com/vi/AwTH_0yW9_I/0.jpg" width="200">
   </a>
 </p>
 
